@@ -6,6 +6,11 @@
 * You should receive feedback as soon as possible. If you are surprised by the content of our performance reviews, I’ve failed in my role.
 * I have opinions on many things but tend to keep them to myself. If you're curious about my thoughts, just ask!
 * I’ll occasionally check Slack outside of business hours. Unless it is a critical issue and you get paged, I do not expect your response until regular working hours.
-* I’m somewhere between an extrovert and an introvert (often called an ambivert). I love social interactions but sometimes need time alone to recharge. 
+* I’m somewhere between an extrovert and an introvert (often called an ambivert). I love social interactions but sometimes need time alone to recharge.
+* I believe that the best way to learn how to work together is by doing it-with honest, open, and transparent communication.
+* As a manager, I don't think I need to be better than you at your job. I do need to be able to support you.
 
-This document is a work in progress and reflects my perspective. The best way to learn how to work together is by doing it—with honest, open, and transparent communication.
+### My management theory is that a good manager does three things well
+1. Creates space and supports the team to get things done
+2. Helps the people in the team grow in their careers
+3. Connects the team to broader company goals
